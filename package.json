@@ -67,7 +67,7 @@
     "@types/object-hash": "^1.1.0",
     "@types/rimraf": "^2.0.2",
     "@types/sinon": "^2.3.5",
-    "@types/temp": "^0.8.29",
+    "@types/temp": "^0.8.31",
     "commitizen": "^2.9.6",
     "cz-conventional-changelog": "^2.0.0",
     "husky": "^0.14.0",
